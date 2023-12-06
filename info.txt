@@ -1,0 +1,10 @@
+terraform init
+terraform destroy
+terraform show
+terraform init -upgrade
+terraform console
+terraform state list
+
+
+
+aws sts get-caller-identity
